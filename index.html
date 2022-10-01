@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width-device-width, initial-scale=1.0">
+	<meta name="description" content=" ">
+	<meta name="keywords" content=" ">
+	
+	<title>Welcome_to_Nodir's_portfolio</title>
+	
+	<!--linking css-->
+	<link rel="stylesheet" href="./css/style.css">
+	
+	<script src="https://kit.fontawesome.com/59ea9a7e7e.js" crossorigin="anonymous"></script>
+	
+</head>
+
+<!--homepage-->
+<body>
+	<div id="header">
+		<div class="container">
+			<nav>
+				<img src="images/logo.png" alt="Nodir.any" class="logo">
+				<ul id="mobile-menu">
+					<li><a href="#header">Home</a></li>
+					<li><a href="#about">About</a></li>
+					<li><a href="#services">Blank</a></li>
+					<li><a href="#portfolio">Portfolio</a></li>
+					<li><a href="#contact">Contact</a></li>
+					<li><button href="images/my-cv.pdf" class="btn download-btn">My CV</button></li>
+					<i class="fas fa-times" onClick="closemenu()"></i>
+				</ul>
+				<i class="fas fa-bars"onClick="openmenu()"></i>
+			</nav>
+			
+
+			<div class="header-text">
+				<p>I am <i>Nodir</i></p>
+				<h1>and I am Fullstack web developer<br>and i build games at my free time.</h1>
+				<div class="header-btn">
+					<button href="#" class="btn github-btn">GitHub</button>
+				</div>
+			</div>
+
+			
+		</div>
+	</div><!--end-->
+	
+	<div id="about">
+		<div class="container">
+			<div class="row">
+				<div class="about-col-1">
+					<img src="images/user1.jpg">
+				</div>
+				<div class="about-col-2">
+					<h1 class="sub-title"> About me</h1>
+					<p>I like working with Frontend and designing, but I also can work at Backend</p>
+					
+					<div class="tab-titles">
+						<p class="tab-links active-link" onClick="opentab('skills')">skill</p>
+						<p class="tab-links" onClick="opentab('experience')">experience</p>
+						<p class="tab-links" onClick="opentab('education')">education</p>
+					</div>
+					
+					<div class="tab-contents active-tab" id="skills">
+						<ul>
+							<li><span>UI</span><br>specicity of skill</li>
+							<li><span>Frontend</span><br>specicity of skill</li>
+							<li><span>Backend</span><br>specicity of skill</li>
+						</ul>
+					</div>
+					<div class="tab-contents" id="experience">
+						<ul>
+							<li><span>UI</span><br>time period of experience</li>
+							<li><span>Frontend</span><br>time period of experience</li>
+							<li><span>Backend</span><br>time period of experience</li>
+						</ul>
+					</div>
+					<div class="tab-contents" id="education">
+						<ul>
+							<li><span>Udacity</span><br>time and specialty<br></li>
+							<li><span>Blank</span><br>time and specialty</li>
+							<li><span>Blank</span><br>Material science</li>
+						</ul>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div><!--end-->
+	
+	<!--portfolio-->
+	<div id="portfolio">
+		<div class="container">
+			<h1 class="sub-title">Portfolio</h1>
+			<div class="work-list">
+				<div class="work">
+					<img src="images/work-1.png" alt="">
+					<div class="layer">
+						<h3>Project name</h3>
+						<a href="#"><p>Live project here</p></a>
+					</div>
+				</div>
+				<div class="work">
+					<img src="images/work-2.png" alt=""></>
+					<div class="layer">
+						<h3>Projects</h3>
+						<a href="#"><p>Live project here</p></a>
+					</div>
+				</div>
+				<div class="work">
+					<img src="images/work-3.png" alt="">
+					<div class="layer">
+						<h3>Projects</h3>
+						<a href="#"><p>Live project here</p></a>
+					</div>
+				</div>
+			</div>
+			<a href="" class="btn">See more</a>
+		</div>
+	</div>
+	
+
+	<!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-contact" id="contact">
+            <h3>Contact</h3>
+            <p>
+              Uzbekistan, Tashkent city
+				address nu 908<br><br>
+              <strong>Phone:</strong> +99899 554 88 55<br>
+              <strong>Email:</strong> info@example.com<br>
+            </p>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#header">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">About</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Blank</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Portfolio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contact</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-social-icons">
+            <h4>Social links</h4>
+            <ul class="social-icons">
+				<li><a href="" class="social-icon"> <i class="fa fa-github"></i></a></li>
+				<li><a href="" class="social-icon"> <i class="fa fa-linkedin"></i></a></li>
+				<li><a href="" class="social-icon"> <i class="fa-brands fa-google"></i></a></li>
+				<li><a href="" class="social-icon"> <i class="fa fa-youtube"></i></a></li>
+				<li><a href="" class="social-icon"> <i class="fa fa-facebook"></i></a></li>
+			</ul>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container d-md-flex py-4">
+
+      <div class="me-md-auto text-center text-md-start">
+        <div class="copyright">
+          &copy; built in 2022 by <span class="copyright-footer"><a href="#">Nodir Ashurov</a></span> All Rights Reserved
+        </div>
+    </div>
+  </footer><!-- End Footer -->
+
+	
+	<!--linking js-->
+	<script type="text/javascript" src="./js/main.js"></script>
+	
+</body>
+</html>
