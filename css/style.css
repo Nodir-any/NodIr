@@ -291,9 +291,9 @@ nav ul li a:focus::after
 }
 
 
-/*--------------------------------------------------------------
+/*
 # Footer
---------------------------------------------------------------*/
+*/
 #footer {
   color: #fff;
   font-size: 14px;
@@ -531,7 +531,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
 	body{
-		background-image: url(../images/phone-background.jpg);
+		/*background-image: url(../images/phone-background.jpg);*/
 		background-attachment: fixed;
 		background-position: center;
 		
