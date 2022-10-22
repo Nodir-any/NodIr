@@ -441,12 +441,13 @@ nav ul li a:focus::after
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #1e1e1e;
+	border-radius: 5px;
 }
 
 #footer .fa-google:hover {
     background-color: #ffffcc;
 	color: #0000cd;
-	border-radius: 5px;
+	
 }
 
 #footer .fa-youtube {
@@ -459,6 +460,7 @@ nav ul li a:focus::after
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #1e1e1e;
+	border-radius: 5px;
 }
 
 #footer .fa-youtube:hover {
@@ -476,6 +478,7 @@ nav ul li a:focus::after
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #1e1e1e;
+	border-radius: 5px;
 }
 
 #footer .fa-linkedin:hover {
@@ -493,6 +496,7 @@ nav ul li a:focus::after
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #1e1e1e;
+	border-radius: 5px;
 }
 
 #footer .fa-github:hover {
