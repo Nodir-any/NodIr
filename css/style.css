@@ -465,7 +465,7 @@ nav ul li a:focus::after
 
 #footer .fa-youtube:hover {
     background-color: #e53d34;
-	border-radius: 5px;
+
 }
 
 #footer .fa-linkedin {
@@ -483,7 +483,7 @@ nav ul li a:focus::after
 
 #footer .fa-linkedin:hover {
     background-color: #0073a4;
-	border-radius: 5px;
+
 }
 
 #footer .fa-github {
@@ -501,7 +501,7 @@ nav ul li a:focus::after
 
 #footer .fa-github:hover {
     background-color: #5a32a3;
-	border-radius: 5px;
+
 }
 
 #footer .copyright{
