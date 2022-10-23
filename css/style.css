@@ -246,7 +246,7 @@ nav ul li a:focus::after
 
 .layer p{
 	text-decoration: none;
-	background-color: linear-gradient(45deg, red, white);
+	background-color: linear-gradient(45deg, rgba(255, 0, 0, .3), rgba(0, 0, 0,.95));
 	font-size: 2rem;
 	animation: gradient 1s ease-in infinite alternate;
 }
