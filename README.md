@@ -1,5 +1,7 @@
 # Nodir.github.io
 >> temporary portfolio website.
+most of the effects achieved with only css
+
 
 Home and only <code> html </code> page is <code>index.html</code>
 
