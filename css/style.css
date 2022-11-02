@@ -4,7 +4,6 @@
 /*stripping out default css settings*/
 
 *{
-	color: red; !important
 	font-family: 'Lora', serif;
 	margin:0;
 	padding:0;
