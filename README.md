@@ -11,4 +11,4 @@ Home and only <code> css </code> page is <code>styles.css</code>
 Home and only <code> js </code> page is <code>main.js</code>
 
 Personal portfolio website in the process of development. <a href="https://nodir-any.github.io/NodIr/" target="_blank_">Live</a>
-[PROJECT IS LIVE HERE]([https://nodir-any.github.io/NodIr/])
+[PROJECT IS LIVE HERE]([(https://nodir-any.github.io/NodIr/)]):
