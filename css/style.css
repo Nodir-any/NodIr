@@ -276,7 +276,7 @@ nav ul li a:focus::after
 	display: block;
 	margin: 50px auto;
 	width: fit-content;
-	border: 1px solid red;
+	border: 1px solid gold;
 	border-radius: 6px;
 	padding: 14px 50px;
 	text-decoration: none;
@@ -287,7 +287,7 @@ nav ul li a:focus::after
 .btn:hover,
 .btn:focus
 {
-	background: linear-gradient(rgba(0,0,0,0.6),#ff004f);
+	background: hsl(176, 69%, 79%);
 }
 
 
