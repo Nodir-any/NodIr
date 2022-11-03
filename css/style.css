@@ -165,7 +165,7 @@ nav ul li a:focus::after
 }
 
 .tab-links::after{
-	content: '';
+	content: ' ';
 	width: 0;
 	height: 3px;
 	background: pink;
