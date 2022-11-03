@@ -253,7 +253,7 @@ nav ul li a:focus::after
 
 @keyframes gradient{
 	0%{
-		background: red;
+		background: rgba(255, 0, 0, .3);
 	}
 	100%{
 		background: white;
