@@ -254,6 +254,7 @@ nav ul li a:focus::after
 @keyframes gradient{
 	0%{
 		background: rgba(255, 0, 0, .3);
+		color: hsla(0, 70%, 10%, .35);
 	}
 	100%{
 		background: rgba(255, 255, 255, .35);
