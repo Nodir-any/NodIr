@@ -1,8 +1,7 @@
  /*google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
-/*stripping out default css settings*/
-
+stripping out default
 *{
 	font-family: 'Lora', serif;
 	margin:0;
