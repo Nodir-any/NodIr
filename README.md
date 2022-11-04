@@ -5,7 +5,7 @@ only mobile hamburger menu functionality achieved by js
 
 
 Home and only <code> html </code> page is <code>index.html</code>
-s</co
+s
 
 
 Personal portfolio website in the process of development. <a href="https://nodir-any.github.io/NodIr/" target="_blank_">PROJECT IS LIVE HERE</a>
