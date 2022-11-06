@@ -160,7 +160,7 @@ nav ul li a:focus::after
 	content: ' ';
 	width: 0;
 	height: 3px;
-	background: pink;
+	background: gold;
 	position: absolute;
 	left: 0;
 	bottom: -8px;
@@ -177,7 +177,7 @@ nav ul li a:focus::after
 }
 
 .tab-contents ul li span{
-	color: pink;
+	color: gold;
 	font-size: var(--font-size-14px);
 }
 
