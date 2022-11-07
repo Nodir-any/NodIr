@@ -248,7 +248,7 @@ nav ul li a:focus::after
 		color: hsl(255, 30%, 25%);
 	}
 	100%{
-		color: whhite;
+		color: hsl(0, 0%, 100%);
 	}
 }
 
