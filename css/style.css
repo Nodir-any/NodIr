@@ -245,10 +245,10 @@ nav ul li a:focus::after
 
 @keyframes gradient{
 	0%{
-		color: red;
+		color: hsl(255, 30%, 25%);
 	}
 	100%{
-		color: white;
+		color: whhite;
 	}
 }
 
