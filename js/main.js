@@ -31,7 +31,7 @@ document.querySelector('.download-btn').addEventListener('click', function(e){
 		target.style.backgroundColor = 'gray';
 		target.style.color = '#cccccc';
 		target.style.fontStyle = 'italic';
-		target.innerText = 'Downloaded';
+		target.innerText = 'Downloading ...';
 	}
 	
 });
