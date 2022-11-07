@@ -245,7 +245,7 @@ nav ul li a:focus::after
 
 @keyframes gradient{
 	0%{
-		color: hsl(255, 30%, 25%);
+		color: hsl(255, 100%, 50%);
 	}
 	100%{
 		color: hsl(0, 0%, 100%);
