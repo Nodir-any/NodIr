@@ -67,6 +67,7 @@ nav ul li{
 }
 
 nav ul li a{
+	text-dsecoration: none;
 	color: #fff;
 	font-size: var(--font-size-18px);
 	position: relative;
