@@ -1,5 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('./second.css');
 
 *{
 	font-family: 'Lora', serif;
