@@ -9,5 +9,5 @@ Home and only <code> html </code> page is <code style="red">index.html</code>
 
 
 
-Personal portfolio website in the process of development. <a href="https://nodir-any.github.io/NodIr/">VISIT HERE</a>
+Personal portfolio website in the process of development. <a href="https://nodir-any.github.io/NodIr/">VISIT HERE</a>l
 
