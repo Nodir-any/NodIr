@@ -4,7 +4,7 @@ most of the effects achieved with only css
 only mobile hamburger menu functionality achieved by js
 
 
-Home and only ``` html ``` page is `index.html`
+[] Home and only ``` html ``` page is `index.html`
 
 
 
