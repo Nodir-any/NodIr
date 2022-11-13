@@ -4,7 +4,7 @@ most of the effects achieved with only css
 only mobile hamburger menu functionality achieved by js
 
 
-Home and only <code> html </code> page is <code style="red">index.html</code>
+Home and only <code> html </code> page is `index.html`
 
 
 
