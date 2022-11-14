@@ -8,7 +8,7 @@
 
 Home and only ``` html ``` page is `index.html`
 
-::: warning
+:::
 *here be dragons*
 :::
 
