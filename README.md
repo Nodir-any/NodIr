@@ -7,6 +7,7 @@
 
 
 Home and only ``` html ``` page is `index.html`
+==mark==
 
 ```sh
 | ==minline-base==  | roughly 20 px __margin-inline__ can grow or shrink accordingly to device |
