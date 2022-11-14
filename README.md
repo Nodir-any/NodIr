@@ -1,5 +1,5 @@
 # Nodir.github.io
->> temporary portfolio website.
+> temporary portfolio website.
 most of the effects achieved with only css
 only mobile hamburger menu functionality achieved by js
 
