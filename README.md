@@ -1,4 +1,4 @@
-# Nodir.github.io
+# Nodir's temporary portfolio
 > temporary portfolio website.
 
 > most of the effects achieved with only css 
