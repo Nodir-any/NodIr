@@ -1,7 +1,9 @@
 # Nodir.github.io
 > temporary portfolio website.
-> most of the effects achieved with only css |
-> only mobile hamburger menu functionality achieved by js |
+> 
+> most of the effects achieved with only css 
+> 
+> only mobile hamburger menu functionality achieved by js 
 
 
 Home and only ``` html ``` page is `index.html`
