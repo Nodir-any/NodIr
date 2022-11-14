@@ -9,7 +9,7 @@
 Home and only ``` html ``` page is `index.html`
 
 ```sh
-| minline-base  | roughly 20 px __margin-inline__ can grow or shrink accordingly to device |
+| `minline-base`  | roughly 20 px __margin-inline__ can grow or shrink accordingly to device |
 | minline-100  or mi-1 | roughly 24.2 px __margin-inline__ can grow or shrink accordingly to device |
 | minline-200  or mi-2 | roughly 27.5 px __margin-inline__ can grow or shrink accordingly to device |
 | minline-300  or mi-3 | roughly 31.5 px __margin-inline__ can grow or shrink accordingly to device |
