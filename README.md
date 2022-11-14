@@ -9,7 +9,7 @@
 Home and only ``` html ``` page is `index.html`
 
 
-<p><mark>Marked text</mark></p>
+<mark>Marked text</mark>
 
 
 Personal portfolio website in the process of development. <a href="https://nodir-any.github.io/NodIr/">VISIT HERE</a>
