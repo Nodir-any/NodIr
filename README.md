@@ -11,6 +11,7 @@ Home and only ``` html ``` page is `index.html`
 
 **Marked text**
 ![This is an image](https://github.com/Nodir-any/NodIr/blob/main/Semanticss_bluescale.png)
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 
 Personal portfolio website in the process of development. <a href="https://nodir-any.github.io/NodIr/">VISIT HERE</a>
