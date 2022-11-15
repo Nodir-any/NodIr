@@ -10,7 +10,7 @@ Home and only ``` html ``` page is `index.html`
 
 
 **Marked text**
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 Personal portfolio website in the process of development. <a href="https://nodir-any.github.io/NodIr/">VISIT HERE</a>
