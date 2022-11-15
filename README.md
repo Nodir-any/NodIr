@@ -12,6 +12,8 @@ Home and only ``` html ``` page is `index.html`
 **Marked text**
 ![This is an image](https://github.com/Nodir-any/NodIr/blob/main/Semanticss_bluescale.png)
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+
 A footnote can also have multiple lines[^2].
 
 
