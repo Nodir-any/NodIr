@@ -13,6 +13,11 @@ Home and only ``` html ``` page is `index.html`
 ![This is an image](https://github.com/Nodir-any/NodIr/blob/main/Semanticss_bluescale.png)
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 Here is a simple footnote[^1].
 [^1]: My reference.
 
