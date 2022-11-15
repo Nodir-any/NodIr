@@ -14,7 +14,7 @@ Home and only ``` html ``` page is `index.html`
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 [^1]: My reference.
-
+Here is a simple footnote[^1].
 
 Personal portfolio website in the process of development. <a href="https://nodir-any.github.io/NodIr/">VISIT HERE</a>
 
