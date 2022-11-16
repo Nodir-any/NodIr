@@ -28,7 +28,7 @@ and aesthetic looks as well as full customizing flexibility.
 | fs-300   | roughly 31.5 px __font-size__ can grow or shrink accordingly to device |
 | fs-400   | roughly 50.5 px __font-size__ can grow or shrink accordingly to device |
 | fs-500   | roughly 70 px __font-size__ can grow or shrink accordingly to device |
-|---------|-----------|
+| | |
 | m--200 or m--2   | roughly 13.5 px __margin__ can grow or shrink accordingly to device |
 | m--100 or m--1  | roughly 15.5 px __margin__ can grow or shrink accordingly to device |
 | m-base  | roughly 20 px __margin__ can grow or shrink accordingly to device |
