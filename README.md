@@ -20,7 +20,7 @@ and aesthetic looks as well as full customizing flexibility.
 
 | Utilities | Description |
 | --------- | ----------- |
-| fs--200   | roughly 13.5 px `font-size` can grow or shrink accordingly to device |
+| fs--200   | roughly 13.5 px __`font-size`__ can grow or shrink accordingly to device |
 | fs--100   | roughly 15.5 px __font-size__ can grow or shrink accordingly to device |
 | fs-base   | roughly 20 px __font-size__ can grow or shrink accordingly to device |
 | fs-100   | roughly 24.2 px __font-size__ can grow or shrink accordingly to device |
