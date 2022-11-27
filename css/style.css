@@ -278,13 +278,13 @@ nav ul li a:focus::after
 	padding: 14px 50px;
 	text-decoration: none;
 	color: white;
-	background: hsl(220, 56%, 60%);
+	background: rgba(255, 0, 0, .35);
 }
 
 .btn:hover,
 .btn:focus
 {
-	background: hsl(220, 69%, 79%);
+	background: rgba(255, 0, 0, .65);
 }
 
 
