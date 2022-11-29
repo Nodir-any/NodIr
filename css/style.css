@@ -29,15 +29,10 @@ body{
 	background-attachment: fixed;
 	background-position: center;
 	background-size: cover;
-	background-blend-mode: darken;
+	
 
 	height: 100vh;
 	color: #fff;
-}
-
-body:hover{
-	background-color: rgba(0,0,0,.35);
-	background-blend-mode: darken;
 }
 
 #header{
