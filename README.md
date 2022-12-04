@@ -2,6 +2,7 @@
 > temporary portfolio website.
 
 ### Use Semanticss framework
+<img src="https://github.com/Nodir-any/Semanticss/blob/main/graphical-assets/transparent_semanticss_blue.png">
 
 Home and only ``` html ``` page is `index.html`
 
