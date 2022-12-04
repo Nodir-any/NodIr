@@ -1,7 +1,7 @@
 # Nodir's temporary portfolio
 > temporary portfolio website.
 
-###Use Semanticss framework
+### Use Semanticss framework
 
 Home and only ``` html ``` page is `index.html`
 
