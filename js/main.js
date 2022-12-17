@@ -24,7 +24,7 @@ var tablinks = document.getElementsByClassName("tab-links");
 		
 //-----------------------------------
 
-document.querySelector('.download-btn').addEventListener('click', function(e){
+document.getElementsByClassName('download-btn').addEventListener('click', function(e){
 	
 	const target = e.target;
 	if(target.matches('button')){
